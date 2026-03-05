@@ -1,4 +1,4 @@
-# AI for Sustainability – SRIP 2026
+# AI for Sustainability IITGN
 
 ## Land Use Classification of the Delhi Airshed Using Satellite Imagery
 
